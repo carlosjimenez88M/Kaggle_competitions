@@ -29,7 +29,7 @@ Learn about Kaggle Competitions and Tensorflow solutions in a different way
 
 | Competition  | <div style="width:250px">Strategy</div> |Kaggle| GitHub |
 | ------------ | -----------------------------------  | ----- | ------ |
-|  1. Titanic |<ul><li> 1 - Dynamic Imputation </li> <li> 2 - Sampling Strategies </li> <li> 3- Fine Tuning | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)  |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_1_tensors.ipynb) |
+|  1. Titanic |<ul><li> 1 - Dynamic Imputation </li> <li> 2 - Sampling Strategies </li> <li> 3- Fine Tuning | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)  |[![Open in GitHub](https://github.com/carlosjimenez88M/Kaggle_competitions/blob/master/competition/titanic.ipynb)](https://github.com/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_1_tensors.ipynb) |
 |  |   |  |  |  |  |
 
 
